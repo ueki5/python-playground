@@ -7,12 +7,12 @@ requires-python = ">=3.12"
 
 [workspace]
 members = [
-    "pg001",
+    "py001",
     "pg002",
 ]
 
 [tool.uv.workspace]
 members = [
-    "pg001",
+    "py001",
     "pg002",
 ]
