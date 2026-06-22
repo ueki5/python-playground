@@ -8,11 +8,11 @@ requires-python = ">=3.12"
 [workspace]
 members = [
     "py001",
-    "pg002",
+    "py002",
 ]
 
 [tool.uv.workspace]
 members = [
     "py001",
-    "pg002",
+    "py002",
 ]
