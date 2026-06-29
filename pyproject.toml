@@ -1,5 +1,5 @@
 [project]
-name = "pg000"
+name = "python-playground"
 version = "0.1.0"
 description = "Python learning workspace"
 readme = "README.md"
